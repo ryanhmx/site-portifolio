@@ -57,3 +57,10 @@ function showName(name){
     color:red;
 }
 ```
+
+Propriedade | Descrição 
+----------- | ----------
+name | Informar o nome do usuario
+Size | Para definir o tamanho do campo
+Background | Cor de fudno da área em HEX
+onPess | Função chamada quando clicar no botão
