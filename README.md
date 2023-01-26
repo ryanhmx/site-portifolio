@@ -2,7 +2,7 @@
 
 [Bem vindo](#bem-vindo-ao-curso-git-e-github) |
 [Módulos](#módulos) |
-[Rede social](#rede-social) 
+[Rede social](#rede-social) |
 [Comando](#comando-para-rodar-o-projeto)
 
 # Bem vindo ao curso Git e Github.
