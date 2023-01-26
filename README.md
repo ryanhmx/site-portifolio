@@ -24,3 +24,32 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 >
 >Segunda área destacada
 
+
+**comando para rodar o projeto:**
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+
+``` js
+function showName(name){
+    return 'Bem vindo: ' + name
+}
+```
+
+**Uso do HTML**
+```html
+<h1>
+    Título do projeto
+    <span>Curso Git</span>
+</h1>
+```
+
+**CSS padrão do projeto**
+```css
+.titulo{
+    backgroung-color:#FFF;
+    color:red;
+}
+```
