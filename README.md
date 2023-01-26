@@ -19,3 +19,8 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 [Instagram](https://instagram.com/ryanhmx)
 
 [Youtube](https://www.youtube.com/channel/UCtQB0gpszaM_NDL4_lWfm_w)
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+>Segunda área destacada
+
